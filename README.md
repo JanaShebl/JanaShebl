@@ -1,19 +1,17 @@
+## Hi there 👋
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**JanaShebl/JanaShebl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul dir="auto"> 
+ <img align="right" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width: 70%; display: inline-block;" />
+ <li>👋 I’m Jana Shebl</li> 
+<li>💻 Computer Science and Artifcial Intellegence student aspiring to become a Java Backend Developer.</li>
+<li>📚 Strong foundation in Object-Oriented Programming, Data Structures, and Algorithms.</li>
+<li>🏆 Competitive Programmer with solid problem-solving skills using C++.</li>
+<li>🗄️ Studied Database fundamentals and worked with SQL.</li>
+<li>🌱 Currently learning Java Backend development and building projects to strengthen my skills.</li>
+</ul>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=java,git,github,mysql,aws" alt="Tools and Technologies" style="max-width: 80%;"/><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="Tools and Technologies" style="max-width: 80%;"/>
+</p>
