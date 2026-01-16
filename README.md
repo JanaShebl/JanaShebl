@@ -11,6 +11,6 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,mysql,aws" alt="Tools and Technologies" style="max-width: 80%;"/><br>
+ <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,mysql,aws" alt="Tools and Technologies" style="max-width: 80%;"/><br>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" alt="Tools and Technologies" style="max-width: 80%;"/>
 </p>
