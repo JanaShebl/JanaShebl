@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=20&duration=2000&pause=1000&color=FF69B4&center=true&width=435&lines=Hi+there+👋;Jana+Shebl;Software+Engineer;Competitive+Programmer;CCNA)](https://readme-typing-svg.demolab.com)
+
+</div>
 
 <ul dir="auto"> 
  <img align="right" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width: 70%; display: inline-block;" />
